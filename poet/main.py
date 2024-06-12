@@ -1,8 +1,8 @@
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 import streamlit as st 
 import time
 
-load_dotenv()
+# load_dotenv()
 
 
 st.title('인공지능 시인')
